@@ -1,25 +1,47 @@
-# Final Project and Deployment
+# SmartSoft Technologies Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A responsive multipage website built as a project assignment to demonstrate skills in HTML5, CSS3, JavaScript, and website deployment.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🔍 Project Overview
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+This website is designed for a fictional software company, "SmartSoft Technologies". It includes three fully responsive pages:
+- **Home**: Introduction, services, and an image slider
+- **About**: Information about the company
+- **Contact**: Contact form with client-side validation
 
-## Tasks
+## 🛠️ Technologies Used
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive design with Flexbox and Media Queries
+- **JavaScript** – Image slider, form validation
+- **Deployment** – GitHub Pages / Netlify / Vercel
 
-Good luck and happy coding! 🚀💻
+## 🌐 Live Website
+
+[🔗 View Live Website Here](https://your-deployment-url.com)
+
+## 📁 Folder Structure
+
+software-company-website/
+├── index.html
+├── about.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── (logo and slider images)
+└── README.md
+
+## 🚀 How to Run Locally
+
+1. Download or clone the repository:
+   git clone https://github.com/your-username/your-repo-name.git
+2. Open `index.html` in any modern browser.
+
+## 📬 Contact
+
+For questions or suggestions, please email your-email@example.com.
+
+© 2025 SmartSoft Technologies – All rights reserved.

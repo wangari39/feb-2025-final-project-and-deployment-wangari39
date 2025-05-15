@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.hero {
+  background: #f4f4f4;
+  padding: 30px;
+  text-align: center;
+}
+
+.services, .slider, main {
+  margin: 30px 0;
+}
+
+.slider img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+form label {
+  margin: 10px 0;
+}
+
+form input, form textarea {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 10px;
+  background: #333;
+  color: white;
+  border: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
