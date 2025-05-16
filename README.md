@@ -1,8 +1,8 @@
 # SmartSoft Technologies Website
 
-A responsive multipage website built as a projectto demonstrate skills in HTML5, CSS3, JavaScript, and website deployment.
+A responsive multipage website built as a project to demonstrate skills in HTML5, CSS3, JavaScript, and website deployment.
 
- Project Overview
+ ##Project Overview
 
 This website is designed for a fictional software company, "SmartSoft Technologies". It includes three fully responsive pages:
 - **Home**: Introduction, services, and an image slider
